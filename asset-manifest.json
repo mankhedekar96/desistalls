@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/mankhedekar96/desistalls/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/mankhedekar96/desistalls/static/js/main.1235c31a.chunk.js",
+    "main.js.map": "/mankhedekar96/desistalls/static/js/main.1235c31a.chunk.js.map",
+    "runtime-main.js": "/mankhedekar96/desistalls/static/js/runtime-main.b3ad758e.js",
+    "runtime-main.js.map": "/mankhedekar96/desistalls/static/js/runtime-main.b3ad758e.js.map",
+    "static/js/2.44133848.chunk.js": "/mankhedekar96/desistalls/static/js/2.44133848.chunk.js",
+    "static/js/2.44133848.chunk.js.map": "/mankhedekar96/desistalls/static/js/2.44133848.chunk.js.map",
+    "static/js/3.f5f34955.chunk.js": "/mankhedekar96/desistalls/static/js/3.f5f34955.chunk.js",
+    "static/js/3.f5f34955.chunk.js.map": "/mankhedekar96/desistalls/static/js/3.f5f34955.chunk.js.map",
+    "index.html": "/mankhedekar96/desistalls/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/mankhedekar96/desistalls/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.44133848.chunk.js.LICENSE.txt": "/mankhedekar96/desistalls/static/js/2.44133848.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/mankhedekar96/desistalls/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b3ad758e.js",
+    "static/js/2.44133848.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.1235c31a.chunk.js"
+  ]
+}
