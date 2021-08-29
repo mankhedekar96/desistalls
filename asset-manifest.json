@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/desistalls/static/css/main.8ecc122c.chunk.css",
-    "main.js": "/desistalls/static/js/main.20b3697c.chunk.js",
-    "main.js.map": "/desistalls/static/js/main.20b3697c.chunk.js.map",
+    "main.css": "/desistalls/static/css/main.3e2659a7.chunk.css",
+    "main.js": "/desistalls/static/js/main.2a3ed1b5.chunk.js",
+    "main.js.map": "/desistalls/static/js/main.2a3ed1b5.chunk.js.map",
     "runtime-main.js": "/desistalls/static/js/runtime-main.5ecd60eb.js",
     "runtime-main.js.map": "/desistalls/static/js/runtime-main.5ecd60eb.js.map",
     "static/js/2.eaf2564a.chunk.js": "/desistalls/static/js/2.eaf2564a.chunk.js",
@@ -10,14 +10,15 @@
     "static/js/3.743c8c2d.chunk.js": "/desistalls/static/js/3.743c8c2d.chunk.js",
     "static/js/3.743c8c2d.chunk.js.map": "/desistalls/static/js/3.743c8c2d.chunk.js.map",
     "index.html": "/desistalls/index.html",
-    "static/css/main.8ecc122c.chunk.css.map": "/desistalls/static/css/main.8ecc122c.chunk.css.map",
+    "static/css/main.3e2659a7.chunk.css.map": "/desistalls/static/css/main.3e2659a7.chunk.css.map",
     "static/js/2.eaf2564a.chunk.js.LICENSE.txt": "/desistalls/static/js/2.eaf2564a.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/desistalls/static/media/logo.6ce24c58.svg"
+    "static/media/logo.311a9306.svg": "/desistalls/static/media/logo.311a9306.svg",
+    "static/media/website-cover.5f3836ef.svg": "/desistalls/static/media/website-cover.5f3836ef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.5ecd60eb.js",
     "static/js/2.eaf2564a.chunk.js",
-    "static/css/main.8ecc122c.chunk.css",
-    "static/js/main.20b3697c.chunk.js"
+    "static/css/main.3e2659a7.chunk.css",
+    "static/js/main.2a3ed1b5.chunk.js"
   ]
 }
